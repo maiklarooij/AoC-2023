@@ -5,7 +5,7 @@ Language of the year: [Rust](https://www.rust-lang.org/)
 | Day | Title | Link to puzzle          | First part | Second part | Done? |
 | :---: | :-: | -------------- | :---: | :---: | :---: |
 |  1   |  Trebuchet?!  | [Link](https://adventofcode.com/2023/day/1) | [Link](/puzzle_1a/src/main.rs) | [Link](/puzzle_1b/src/main.rs) | ✅ |
-|  2   |  ???  | [Link](https://adventofcode.com/2023/day/2) | [Link](/puzzle_2a/src/main.rs) | [Link](/puzzle_2b/src/main.rs) | ❌ |
+|  2   |  Cube Conundrum  | [Link](https://adventofcode.com/2023/day/2) | [Link](/puzzle_2a/src/main.rs) | [Link](/puzzle_2b/src/main.rs) | ✅ |
 |  3   |  ???  | [Link](https://adventofcode.com/2023/day/3) | [Link](/puzzle_3a/src/main.rs) | [Link](/puzzle_3b/src/main.rs) | ❌ |
 |  4   |  ???  | [Link](https://adventofcode.com/2023/day/4) | [Link](/puzzle_4a/src/main.rs) | [Link](/puzzle_4b/src/main.rs) | ❌ |
 |  5   |  ???  | [Link](https://adventofcode.com/2023/day/5) | [Link](/puzzle_5a/src/main.rs) | [Link](/puzzle_5b/src/main.rs) | ❌ |
@@ -28,3 +28,4 @@ Language of the year: [Rust](https://www.rust-lang.org/)
 |  22  |  ???  | [Link](https://adventofcode.com/2023/day/22) | [Link](/puzzle_22a/src/main.rs) | [Link](/puzzle_22b/src/main.rs) | ❌ |
 |  23  |  ???  | [Link](https://adventofcode.com/2023/day/23) | [Link](/puzzle_23a/src/main.rs) | [Link](/puzzle_23b/src/main.rs) | ❌ |
 |  24  |  ???  | [Link](https://adventofcode.com/2023/day/24) | [Link](/puzzle_24a/src/main.rs) | [Link](/puzzle_24b/src/main.rs) | ❌ |
+|  25  |  ???  | [Link](https://adventofcode.com/2023/day/25) | [Link](/puzzle_25a/src/main.rs) | [Link](/puzzle_25b/src/main.rs) | ❌ |
