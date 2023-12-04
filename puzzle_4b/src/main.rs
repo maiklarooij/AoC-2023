@@ -1,9 +1,12 @@
 fn main() {
-    let lines = include_str!("../input.txt").lines();
-    let mut total_matches: Vec<u32> = Vec::new();
+    let lines: Vec<&str> = include_str!("../input.txt").lines().collect();
+    let n_lines: usize = lines.len();
+    let mut total_with_copies: Vec<u32> = vec![1; n_lines];
 
     // First get for each card the number of matches
-    for line in lines {
+    for i in 0..n_lines {
+
+        let line: &str = lines[i];
 
         // Parsing the line
         let splitted_line = line.split(":").collect::<Vec<&str>>();
@@ -12,26 +15,16 @@ fn main() {
         let own_numbers = numstring_to_vec(card_data_splitted[1]);
 
         // Calculating the points
-        let mut num_matching = 0;
+        let mut num_matching: usize = 0;
         for number in own_numbers {
             if winning_numbers.contains(&number) {
                 num_matching += 1;
             }
         }
 
-        total_matches.push(num_matching);
-    }
-
-    // Then, for each card, calculate the number of copies it gives
-    // Start with 1 copy for every card
-    let mut total_with_copies: Vec<u32> = vec![1; total_matches.len()];
-    for i in 0..total_matches.len() {
-
-        let nr_matching = total_matches[i] as usize;
-        let nr_copies = total_with_copies[i];
-
-        for j in 1..(nr_matching + 1) {
-            if i + j >= total_matches.len() {
+        let nr_copies: u32 = total_with_copies[i];
+        for j in 1..(num_matching + 1) {
+            if i + j >= n_lines {
                 break;
             }
             total_with_copies[i + j] += nr_copies;
