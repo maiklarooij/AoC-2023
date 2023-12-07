@@ -10,7 +10,7 @@ Language of the year: [Rust](https://www.rust-lang.org/)
 |  4   |  Scratchcards  | [Link](https://adventofcode.com/2023/day/4) | [Link](/puzzle_4a/src/main.rs) | [Link](/puzzle_4b/src/main.rs) | ✅ |
 |  5   |  If You Give A Seed A Fertilizer  | [Link](https://adventofcode.com/2023/day/5) | [Link](/puzzle_5a/src/main.rs) | [Link](/puzzle_5b/src/main.rs) | ✅ |
 |  6   |  Wait For It  | [Link](https://adventofcode.com/2023/day/6) | [Link](/puzzle_6a/src/main.rs) | [Link](/puzzle_6b/src/main.rs) | ✅ |
-|  7   |  ???  | [Link](https://adventofcode.com/2023/day/7) | [Link](/puzzle_7a/src/main.rs) | [Link](/puzzle_7b/src/main.rs) | ❌ |
+|  7   |  Camel Cards  | [Link](https://adventofcode.com/2023/day/7) | [Link](/puzzle_7a/src/main.rs) | [Link](/puzzle_7b/src/main.rs) | ✅ |
 |  8   |  ???  | [Link](https://adventofcode.com/2023/day/8) | [Link](/puzzle_8a/src/main.rs) | [Link](/puzzle_8b/src/main.rs) | ❌ |
 |  9   |  ???  | [Link](https://adventofcode.com/2023/day/9) | [Link](/puzzle_9a/src/main.rs) | [Link](/puzzle_9b/src/main.rs) | ❌ |
 |  10  |  ???  | [Link](https://adventofcode.com/2023/day/10) | [Link](/puzzle_10a/src/main.rs) | [Link](/puzzle_10b/src/main.rs) | ❌ |
