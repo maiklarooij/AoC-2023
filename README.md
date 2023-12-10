@@ -13,7 +13,7 @@ Language of the year: [Rust](https://www.rust-lang.org/)
 |  7   |  Camel Cards  | [Link](https://adventofcode.com/2023/day/7) | [Link](/puzzle_7a/src/main.rs) | [Link](/puzzle_7b/src/main.rs) | ✅ |
 |  8   |  Haunted Wasteland  | [Link](https://adventofcode.com/2023/day/8) | [Link](/puzzle_8a/src/main.rs) | [Link](/puzzle_8b/src/main.rs) | ✅ |
 |  9   |  Mirage Maintenance  | [Link](https://adventofcode.com/2023/day/9) | [Link](/puzzle_9a/src/main.rs) | [Link](/puzzle_9b/src/main.rs) | ✅ |
-|  10  |  ???  | [Link](https://adventofcode.com/2023/day/10) | [Link](/puzzle_10a/src/main.rs) | [Link](/puzzle_10b/src/main.rs) | ❌ |
+|  10  |  Pipe Maze  | [Link](https://adventofcode.com/2023/day/10) | [Link](/puzzle_10a/src/main.rs) | [Link](/puzzle_10b/src/main.rs) | ✅ |
 |  11  |  ???  | [Link](https://adventofcode.com/2023/day/11) | [Link](/puzzle_11a/src/main.rs) | [Link](/puzzle_11b/src/main.rs) | ❌ |
 |  12  |  ???  | [Link](https://adventofcode.com/2023/day/12) | [Link](/puzzle_12a/src/main.rs) | [Link](/puzzle_12b/src/main.rs) | ❌ |
 |  13  |  ???  | [Link](https://adventofcode.com/2023/day/13) | [Link](/puzzle_13a/src/main.rs) | [Link](/puzzle_13b/src/main.rs) | ❌ |
