@@ -43,24 +43,19 @@ fn main() {
     // Find enclosed points
     let mut enclosed_points: u32 = 0;
     for y in 0..grid.len() {
+        let mut nr_passes: u16 = 0;
         for x in 0..grid[y].len() {
 
             // Check if point is already in path
             if all_points.contains(&(y, x)) {
-                continue;
-            }
-            
-            // Check the number of passes through the polygon
-            let mut nr_passes: u16 = 0;
-            for y_c in 0..y {
-                if all_points.contains(&(y_c, x)) &&  ['-', 'L', 'F'].contains(&grid[y_c][x]) {
+                if ['|', 'F', '7', 'S'].contains(&grid[y][x]) {
                     nr_passes += 1;
                 }
+                continue;
             }
             
             // If odd number of passes, point is enclosed
             if nr_passes % 2 != 0 {
-                println!("Found point: {:?}, passes {}", (y, x), nr_passes);
                 enclosed_points += 1;
             }
         }
