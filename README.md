@@ -16,7 +16,7 @@ Language of the year: [Rust](https://www.rust-lang.org/)
 |  10  |  Pipe Maze  | [Link](https://adventofcode.com/2023/day/10) | [Link](/puzzle_10a/src/main.rs) | [Link](/puzzle_10b/src/main.rs) | ✅✅ |
 |  11  |  Cosmic Expansion  | [Link](https://adventofcode.com/2023/day/11) | [Link](/puzzle_11a/src/main.rs) | [Link](/puzzle_11b/src/main.rs) | ✅✅ |
 |  12  |  Hot Springs  | [Link](https://adventofcode.com/2023/day/12) | [Link](/puzzle_12a/src/main.rs) | [Link](/puzzle_12b/src/main.rs) | ✅❌ |
-|  13  |  ???  | [Link](https://adventofcode.com/2023/day/13) | [Link](/puzzle_13a/src/main.rs) | [Link](/puzzle_13b/src/main.rs) | ❌ |
+|  13  |  Point of Incidence  | [Link](https://adventofcode.com/2023/day/13) | [Link](/puzzle_13a/src/main.rs) | [Link](/puzzle_13b/src/main.rs) | ✅✅ |
 |  14  |  ???  | [Link](https://adventofcode.com/2023/day/14) | [Link](/puzzle_14a/src/main.rs) | [Link](/puzzle_14b/src/main.rs) | ❌ |
 |  15  |  ???  | [Link](https://adventofcode.com/2023/day/15) | [Link](/puzzle_15a/src/main.rs) | [Link](/puzzle_15b/src/main.rs) | ❌ |
 |  16  |  ???  | [Link](https://adventofcode.com/2023/day/16) | [Link](/puzzle_16a/src/main.rs) | [Link](/puzzle_16b/src/main.rs) | ❌ |
