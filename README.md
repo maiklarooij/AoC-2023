@@ -19,7 +19,7 @@ Language of the year: [Rust](https://www.rust-lang.org/)
 |  13  |  Point of Incidence  | [Link](https://adventofcode.com/2023/day/13) | [Link](/puzzle_13a/src/main.rs) | [Link](/puzzle_13b/src/main.rs) | ✅✅ |
 |  14  |  Parabolic Reflector Dish  | [Link](https://adventofcode.com/2023/day/14) | [Link](/puzzle_14a/src/main.rs) | [Link](/puzzle_14b/src/main.rs) | ✅✅ |
 |  15  |  Lens Library  | [Link](https://adventofcode.com/2023/day/15) | [Link](/puzzle_15a/src/main.rs) | [Link](/puzzle_15b/src/main.rs) | ✅✅ |
-|  16  |  ???  | [Link](https://adventofcode.com/2023/day/16) | [Link](/puzzle_16a/src/main.rs) | [Link](/puzzle_16b/src/main.rs) | ❌ |
+|  16  |  The Floor Will Be Lava  | [Link](https://adventofcode.com/2023/day/16) | [Link](/puzzle_16a/src/main.rs) | [Link](/puzzle_16b/src/main.rs) | ✅✅ |
 |  17  |  ???  | [Link](https://adventofcode.com/2023/day/17) | [Link](/puzzle_17a/src/main.rs) | [Link](/puzzle_17b/src/main.rs) | ❌ |
 |  18  |  ???  | [Link](https://adventofcode.com/2023/day/18) | [Link](/puzzle_18a/src/main.rs) | [Link](/puzzle_18b/src/main.rs) | ❌ |
 |  19  |  ???  | [Link](https://adventofcode.com/2023/day/19) | [Link](/puzzle_19a/src/main.rs) | [Link](/puzzle_19b/src/main.rs) | ❌ |
