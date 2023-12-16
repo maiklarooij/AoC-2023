@@ -23,7 +23,7 @@ fn main() {
 
                 // Calculate the load for the current cube: last steady rock - round stones before
                 'O' => {
-                    total_load += nr_cols - last_cube - nr_rounded;
+                    total_load += nr_rows - last_cube - nr_rounded;
                     nr_rounded += 1;
                 }
                 _ => panic!("Invalid character")
