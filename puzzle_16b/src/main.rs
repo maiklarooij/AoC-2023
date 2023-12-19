@@ -8,7 +8,8 @@ fn main() {
     for j in [0, grid[0].len()-1] {
 
         for i in 0..grid.len() {
-
+            
+            // Check first and last column
             {
                 let mut visited: &mut Vec<Vec<HashMap<char, bool>>> = &mut vec![vec![
                     HashMap::from(
@@ -20,10 +21,10 @@ fn main() {
 
                 let final_score = final_score(&grid, &visited);
                 if final_score > highest_score {
-                    println!("New highest score: {}", final_score);
                     highest_score = final_score;
                 }
             }
+            // Check first and last row
             {
                 let mut visited: &mut Vec<Vec<HashMap<char, bool>>> = &mut vec![vec![
                     HashMap::from(
@@ -35,7 +36,6 @@ fn main() {
 
                 let final_score = final_score(&grid, &visited);
                 if final_score > highest_score {
-                    println!("New highest score: {}", final_score);
                     highest_score = final_score;
                 }
             }
@@ -51,14 +51,11 @@ fn final_score(grid: &Vec<Vec<char>>, visited: &Vec<Vec<HashMap<char, bool>>>) -
     for row in visited.clone() {
         for col in row {
             if col.iter().filter(|&(_, v)| *v).count() > 0 {
-                print!("#");
                 total_score += 1;
             }
             else {
-                print!(".");
             }
         }
-        println!("");
     }
     total_score
 }
