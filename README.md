@@ -22,7 +22,7 @@ Language of the year: [Rust](https://www.rust-lang.org/)
 |  16  |  The Floor Will Be Lava  | [Link](https://adventofcode.com/2023/day/16) | [Link](/puzzle_16a/src/main.rs) | [Link](/puzzle_16b/src/main.rs) | ✅✅ |
 |  17  |  Clumsy Crucible  | [Link](https://adventofcode.com/2023/day/17) | [Link](/puzzle_17a/src/main.rs) | [Link](/puzzle_17b/src/main.rs) | ❌❌ |
 |  18  |  Lavaduct Lagoon  | [Link](https://adventofcode.com/2023/day/18) | [Link](/puzzle_18a/src/main.rs) | [Link](/puzzle_18b/src/main.rs) | ✅✅ |
-|  19  |  Aplenty  | [Link](https://adventofcode.com/2023/day/19) | [Link](/puzzle_19a/src/main.rs) | [Link](/puzzle_19b/src/main.rs) | ✅❌ |
+|  19  |  Aplenty  | [Link](https://adventofcode.com/2023/day/19) | [Link](/puzzle_19a/src/main.rs) | [Link](/puzzle_19b/src/main.rs) | ✅✅ |
 |  20  |  ???  | [Link](https://adventofcode.com/2023/day/20) | [Link](/puzzle_20a/src/main.rs) | [Link](/puzzle_20b/src/main.rs) | ❌ |
 |  21  |  ???  | [Link](https://adventofcode.com/2023/day/21) | [Link](/puzzle_21a/src/main.rs) | [Link](/puzzle_21b/src/main.rs) | ❌ |
 |  22  |  ???  | [Link](https://adventofcode.com/2023/day/22) | [Link](/puzzle_22a/src/main.rs) | [Link](/puzzle_22b/src/main.rs) | ❌ |
