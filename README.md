@@ -15,7 +15,7 @@ Language of the year: [Rust](https://www.rust-lang.org/)
 |  9   |  Mirage Maintenance  | [Link](https://adventofcode.com/2023/day/9) | [Link](/puzzle_9a/src/main.rs) | [Link](/puzzle_9b/src/main.rs) | ✅✅ |
 |  10  |  Pipe Maze  | [Link](https://adventofcode.com/2023/day/10) | [Link](/puzzle_10a/src/main.rs) | [Link](/puzzle_10b/src/main.rs) | ✅✅ |
 |  11  |  Cosmic Expansion  | [Link](https://adventofcode.com/2023/day/11) | [Link](/puzzle_11a/src/main.rs) | [Link](/puzzle_11b/src/main.rs) | ✅✅ |
-|  12  |  Hot Springs  | [Link](https://adventofcode.com/2023/day/12) | [Link](/puzzle_12a/src/main.rs) | [Link](/puzzle_12b/src/main.rs) | ✅❌ |
+|  12  |  Hot Springs  | [Link](https://adventofcode.com/2023/day/12) | [Link](/puzzle_12a/src/main.rs) | [Link](/puzzle_12b/src/main.rs) | ✅✅ |
 |  13  |  Point of Incidence  | [Link](https://adventofcode.com/2023/day/13) | [Link](/puzzle_13a/src/main.rs) | [Link](/puzzle_13b/src/main.rs) | ✅✅ |
 |  14  |  Parabolic Reflector Dish  | [Link](https://adventofcode.com/2023/day/14) | [Link](/puzzle_14a/src/main.rs) | [Link](/puzzle_14b/src/main.rs) | ✅✅ |
 |  15  |  Lens Library  | [Link](https://adventofcode.com/2023/day/15) | [Link](/puzzle_15a/src/main.rs) | [Link](/puzzle_15b/src/main.rs) | ✅✅ |
